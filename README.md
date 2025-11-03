@@ -30,12 +30,19 @@
 - ☕ **Java** (proyectos básicos en repositorios)  
 
 ---
+  ## 🌟 Proyectos destacados
 
-## 🌟 Proyectos destacados  
+### ☕ Java
+- [JavaProjects](https://github.com/jorgepaez-ops/JavaProyects)  
+  Pequeños programas en Java mientras aprendo, ejercicios de lógica y estructuras básicas.
 
-- [JavaProjects](https://github.com/jorgepaez-ops/JavaProyects) → Pequeños programas en Java mientras aprendo.  
-- (Pronto más cosas relacionadas con **Cloud** 🚀)  
+### 🐳 Ansible + Docker
+- [AnsibleProjects](https://github.com/jorgepaez-ops/ansible-lab)  
+  Laboratorio completo de Ansible sobre nodos Docker. Incluye configuración SSH con llaves, roles básicos y personalización del login con neofetch.
 
+### ☁️ Cloud (Próximamente)
+- Próximos proyectos relacionados con **AWS, Terraform y arquitecturas modernas** 🚀
+  
 ---
 
 ## 📊 Mis estadísticas en GitHub  
@@ -53,47 +60,6 @@
 
 ---
 
-## 🌐 English Version  
-
-🎓 **Systems Engineer** | 💻 SysAdmin transitioning to Cloud Architect  
-☁️ Building in AWS | 🐧 Linux Enthusiast | ☕ Java Explorer  
-
----
-
-### 🚀 About Me  
-- **Systems Engineer** with experience in managing **On-Premise infrastructure** (Linux, Active Directory, Backup with CommVault & NetBackup).  
-- Currently learning and practicing **AWS** (Cloud Practitioner → SysOps → Architect).  
-- Interested in modern architectures: **containers, serverless, and CI/CD**.  
-- Passionate about customizing and optimizing **Linux environments** (GNOME, Fish, Starship, etc.).    
-
----
-
-### 🛠️ Technologies & Tools  
-
-Linux · AWS · Java · Bash · Jenkins · GitLab  
-
----
-
-### 📚 Currently Learning  
-
-- ☁️ **AWS** (Cloud Practitioner → SysOps → Architect)  
-- ☕ **Java** (basic projects and practices)  
-
----
-
-### 🌟 Featured Projects  
-
-- [JavaProjects](https://github.com/jorgepaez-ops/JavaProyects) → Small Java programs while learning.  
-- (More Cloud-related projects coming soon 🚀)  
-
----
-
-### 📫 Connect with me  
-
-[LinkedIn](https://www.linkedin.com/in/jorge-paez-sysadmin) · [GitHub](https://github.com/jorgepaez-ops)  
-
----
-
-## ✨ Frases que me definen / Phrases that define me  
+## ✨ Frases que me definen
 
 - ✨ “Migrando de cables y racks a la nube, rompiendo cosas (para luego arreglarlas con más café)” ☕⚡
