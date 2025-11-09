@@ -31,18 +31,22 @@
 
 ---
   ## 🌟 Proyectos destacados
-
+  
 ### ☕ Java
 - [JavaProjects](https://github.com/jorgepaez-ops/JavaProyects)  
   Pequeños programas en Java mientras aprendo, ejercicios de lógica y estructuras básicas.
+- [Spring Backend](https://github.com/jorgepaez-ops/spring-backend)  
+  Proyecto de backend con Spring Boot, APIs REST y buenas prácticas de desarrollo.
 
 ### 🐳 Ansible + Docker
 - [AnsibleProjects](https://github.com/jorgepaez-ops/ansible-lab)  
   Laboratorio completo de Ansible sobre nodos Docker. Incluye configuración SSH con llaves, roles básicos y personalización del login con neofetch.
+- [Ansible Fullstack Lab](https://github.com/jorgepaez-ops/ansible-fullstack-lab)  
+  Laboratorio completo de Ansible para arquitectura full-stack: backend, frontend y bases de datos. Incluye playbooks idempotentes, roles y configuración de nodos Docker.
 
 ### ☁️ Cloud (Próximamente)
 - Próximos proyectos relacionados con **AWS, Terraform y arquitecturas modernas** 🚀
-  
+    
 ---
 
 ## 📊 Mis estadísticas en GitHub  
