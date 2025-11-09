@@ -5,29 +5,34 @@
 
 ---
 
-## 🚀 Sobre mí  
-- **Ingeniero de Sistemas** con experiencia en administración de **Infraestructura On-Premise** (Linux, Active Directory, Backups con CommVault & NetBackup).  
-- Actualmente aprendiendo y practicando **AWS** (Cloud Practitioner en curso → SysOps → Architect).
-- Interés en arquitecturas modernas: **contenedores, serverless y CI/CD**.  
-- Me gusta personalizar y optimizar entornos **Linux** (GNOME, Fish, Starship, etc.).
-  
+## 🚀 Sobre mí
+- **Ingeniero de Sistemas** con experiencia en administración de infraestructura **On-Premise**: Linux, Active Directory y sistemas de backup (**CommVault** & **NetBackup**).  
+- Actualmente aprendiendo y practicando **AWS**: Cloud Practitioner → SysOps → Solutions Architect, con enfoque en arquitecturas modernas y despliegues en la nube.  
+- Experiencia práctica y en aprendizaje con **contenedores, Docker, Ansible y CI/CD**, orientado a automatización de entornos y despliegues.  
+- Aprendiendo **Java y Spring Boot**, incluyendo APIs y proyectos Full Stack integrados con bases de datos PostgreSQL.  
+- Apasionado por la personalización y optimización de entornos **Linux**, usando **GNOME, Fish, Starship**, y herramientas de productividad avanzadas.  
+- Interés en **aprendizaje continuo** y en construir una base sólida para arquitectura de TI y DevOps.
+
 ---
 
 ## 🛠️ Tecnologías & Herramientas  
 
-## 🛠️ Tecnologías & Herramientas
+<!-- Fila 1 -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)  
+<!-- Fila 2 -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<!-- Fila 3 -->
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
