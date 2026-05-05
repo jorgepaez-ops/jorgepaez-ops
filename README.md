@@ -56,8 +56,8 @@
 
 ## 📊 Estadísticas GitHub
 
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgepaez-ops&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepaez-ops&layout=compact&theme=tokyonight)
+![Estadísticas de Jorge](https://github-readme-stats.vercel.app/api?username=jorgepaez-ops&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepaez-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
