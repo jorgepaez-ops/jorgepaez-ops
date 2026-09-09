@@ -55,6 +55,10 @@
 
 ![Estadísticas de Jorge](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgepaez-ops&theme=tokyonight)
 
+![Lenguajes más usados](https://quickchart.io/chart?c=%7B%22type%22%3A%20%22horizontalBar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Java%22%2C%20%22Kotlin%22%2C%20%22Swift%22%2C%20%22Shell%22%2C%20%22Go%22%2C%20%22TypeScript%22%2C%20%22HCL%22%2C%20%22Otros%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22%25%20del%20c%5Cu00f3digo%20propio%22%2C%20%22data%22%3A%20%5B34.5%2C%2023.3%2C%2021.6%2C%206.0%2C%205.0%2C%204.7%2C%203.3%2C%201.5%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23ED8B00%22%2C%20%22%23A97BFF%22%2C%20%22%23F05138%22%2C%20%22%234EAA25%22%2C%20%22%2300ADD8%22%2C%20%22%233178C6%22%2C%20%22%23844FBA%22%2C%20%22%23888888%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Lenguajes%20m%5Cu00e1s%20usados%20%28repos%20propios%29%22%7D%2C%20%22scales%22%3A%20%7B%22xAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%2040%7D%7D%5D%7D%7D%7D&w=600&h=350&bkg=white)
+
+_Calculado sobre el código que yo escribí (excluye repos de terceros usados como labs de análisis de vulnerabilidades). Incluye proyectos privados. Actualízalo manualmente si cambian tus repos._
+
 ---
 
 ## 📫 Conecta conmigo
